@@ -75,8 +75,8 @@ na.rows <- nrow(df1) - sum(complete.cases(df1))
 
 The total number of rows with NAs = 2304
 
-ii. Devisie a strategy for imputing missing values
-Missing values will be imputed as mean value for the given interval
+ii. Devise a strategy for imputing missing values:
+    Missing values will be imputed as mean value for the given interval
 
 iii. Create a new dataset that is equal to the original dataset but with the missing data filled in.
 
